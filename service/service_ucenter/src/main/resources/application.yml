@@ -38,6 +38,6 @@ feign:
     enabled: true
 wx:
   open:
-    app_id: wxed9954c01bb89b47
-    app_secret: a7482517235173ddb4083788de60b90e
-    redirect_url: http://guli.shop/api/ucenter/wx/callback
+    app_id: *******
+    app_secret: *********
+    redirect_url: *********
